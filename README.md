@@ -5,3 +5,4 @@ functions
 pointers
 data types
 memory management
+structure
